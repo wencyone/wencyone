@@ -122,24 +122,29 @@ Technology, for me, is not just about innovation but about creating safe and pra
 <h3 align="center">🏆 Achievements & Projects</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🏅-Top%201%25%20Developer-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🥇-Hackathon%20Winner-gold?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🛡️-Top%201%25%20Security%20Engineer-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🤖-AI%2FML%20Hackathon%20Winner-gold?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🚀-100%2B%20Projects%20Launched-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💻-Discord%20Bot%20Developer-9cf?style=for-the-badge" />
 </p>
 
 <p align="center">
+  <!-- Ağ & Güvenlik Projesi -->
   <a href="https://example.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="Project 1" width="200" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Security Project" width="200" />
   </a>
+  <!-- AI/ML Projesi -->
   <a href="https://example.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Project 2" width="200" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="AI/ML Project" width="200" />
   </a>
+  <!-- Discord Bot / Backend -->
   <a href="https://example.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="Project 3" width="200" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Discord Bot Project" width="200" />
   </a>
 </p>
 
 <p align="center">
-  <i>⚡ Wency </i>
+  <i>⚡ Wency r</i>
 </p>
+
 
