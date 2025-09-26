@@ -3,7 +3,7 @@
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/static/v1?label=Profile%20views&message=1,245,278&color=0e75b6&style=flat" alt="Wency" title=":D!" />
+  <img src="https://img.shields.io/static/v1?label=Profile%20views&message=1,567,928&color=0e75b6&style=flat" alt="Wency" title=":D!" />
 </p>
 
 **`Network & Security Systems | AI/ML Developer </>`**
