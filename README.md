@@ -1,23 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=0e75b6&center=true&vCenter=true&lines=Hi%2C+I'm+Vural!;Network+%26+Security+Systems;AI+ML+Developer+</>" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=0e75b6&center=true&vCenter=true&multiline=true&repeat=false&font=Fira+Code&lines=Hi%2C+I'm+Vural!;Network+%26+Security+Systems;AI+ML+Developer+</>" alt="Typing SVG" />
 </p>
 
-<p align="left">
-  <img id="views" src="https://img.shields.io/static/v1?label=Profile%20views&message=1567928&color=0e75b6&style=flat" alt="Fake Views" />
-</p>
 
-<script>
-  // Başlangıç sayısı
-  let start = 1567928;
-
-  // Her yenilemede rastgele veya sabit artış
-  let increment = Math.floor(Math.random() * 10) + 1; // 1-10 arası rastgele
-  let newCount = start + increment;
-
-  // Badge URL’sini güncelle
-  document.getElementById("views").src =
-    `https://img.shields.io/static/v1?label=Profile%20views&message=${newCount}&color=0e75b6&style=flat`;
-</script>
+<p align="left"> <img src="https://img.shields.io/static/v1?label=Profile%20views&message=1,567,928&color=0e75b6&style=flat" alt="Wency" title=":D!" /> </p>
 
 **`Network & Security Systems | AI/ML Developer </>`**
 
