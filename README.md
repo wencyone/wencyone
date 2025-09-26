@@ -3,8 +3,21 @@
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/static/v1?label=Profile%20views&message=1,567,928&color=0e75b6&style=flat" alt="Wency" title=":D!" />
+  <img id="views" src="https://img.shields.io/static/v1?label=Profile%20views&message=1567928&color=0e75b6&style=flat" alt="Fake Views" />
 </p>
+
+<script>
+  // Başlangıç sayısı
+  let start = 1567928;
+
+  // Her yenilemede rastgele veya sabit artış
+  let increment = Math.floor(Math.random() * 10) + 1; // 1-10 arası rastgele
+  let newCount = start + increment;
+
+  // Badge URL’sini güncelle
+  document.getElementById("views").src =
+    `https://img.shields.io/static/v1?label=Profile%20views&message=${newCount}&color=0e75b6&style=flat`;
+</script>
 
 **`Network & Security Systems | AI/ML Developer </>`**
 
