@@ -6,9 +6,13 @@
   <img src="https://img.shields.io/static/v1?label=Profile%20views&message=1,245,278&color=0e75b6&style=flat" alt="Wency" title=":D!" />
 </p>
 
-**`AI / ML Engineer Student </>`**
+**`Network & Security Systems | AI/ML Developer </>`**
 
-Hi there, my name is Vural Demir, and I'm a Toronto-based AI / Machine Learning student. Being fascinated by technology from a young age has turned my interest into a career passion. I enjoy exploring new AI and machine learning technologies to develop intelligent, efficient, and practical solutions. As I work on AI projects and experiment with models, I gain new knowledge every day and deepen my understanding of the power of data and algorithms.
+Hi, I'm Vural Demir, a Toronto-based student specializing in network and security systems. My main focus is building secure, reliable, and scalable infrastructures that protect systems and data.
+
+Alongside security engineering, I explore AI and machine learning to design intelligent, efficient solutions—from data-driven models to automation tools. I also enjoy bot development and backend systems, where I apply both my coding skills and security mindset.
+
+Technology, for me, is not just about innovation but about creating safe and practical digital environments. Every project I take on helps me combine security, intelligence, and development into meaningful solutions.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
