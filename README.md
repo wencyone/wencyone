@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=0e75b6&center=true&vCenter=true&font=Fira+Code&lines=Hi%2C+I'm+Vural!;Network+%26+Security+Systems;AI+ML+Developer+</>" alt="Typing SVG" />
-</p>
-
-
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=0e75b6&center=true&vCenter=true&lines=Hi%2C+I'm+Vural!;Network+%26+Security+Systems;AI+ML+Developer+</>" alt="Typing SVG" /> </p>
 
 <p align="left"> <img src="https://img.shields.io/static/v1?label=Profile%20views&message=1,567,928&color=0e75b6&style=flat" alt="Wency" title=":D!" /> </p>
 
