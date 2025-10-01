@@ -4,7 +4,7 @@
 
 **`Network & Security Systems | AI/ML Developer </>`**
 
-Hi, I'm Vural Demir, a Toronto-based student specializing in network and security systems. My main focus is building secure, reliable, and scalable infrastructures that protect systems and data.
+Hi, I'm Vural Demir, I make network and security systems. My main focus is building secure, reliable, and scalable infrastructures that protect systems and data.
 
 Alongside security engineering, I explore AI and machine learning to design intelligent, efficient solutions—from data-driven models to automation tools. I also enjoy bot development and backend systems, where I apply both my coding skills and security mindset.
 
@@ -13,7 +13,7 @@ Technology, for me, is not just about innovation but about creating safe and pra
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <!-- Instagram -->
-  <a href="https://instagram.com/vuraldezz" target="blank">
+  <a href="https://instagram.com/thew3ncy" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
   </a>
 
