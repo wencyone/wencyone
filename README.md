@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=0e75b6&center=true&vCenter=true&lines=Hi%2C+I'm+Vural!;Network+%26+Security+Systems;AI+ML+Developer+</>" alt="Typing SVG" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=0e75b6&center=true&vCenter=true&lines=Hi%2C+I'm+Wêncy!;Network+%26+Security+Systems;AI+ML+Developer+</>" alt="Typing SVG" /> </p>
 
 <p align="left"> <img src="https://img.shields.io/static/v1?label=Profile%20views&message=1,567,928&color=0e75b6&style=flat" alt="Wency" title=":D!" /> </p>
 
@@ -9,13 +9,6 @@ Hi, I'm Vural Demir, I make network and security systems. My main focus is build
 Alongside security engineering, I explore AI and machine learning to design intelligent, efficient solutions—from data-driven models to automation tools. I also enjoy bot development and backend systems, where I apply both my coding skills and security mindset.
 
 Technology, for me, is not just about innovation but about creating safe and practical digital environments. Every project I take on helps me combine security, intelligence, and development into meaningful solutions.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <!-- Instagram -->
-  <a href="https://instagram.com/thew3ncy" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
-  </a>
 
 <!-- LANGUAGES -->
 <h3 align="left">🚀 Languages</h3>
