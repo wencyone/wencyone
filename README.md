@@ -2,20 +2,24 @@
 
 <p align="left"> <img src="https://img.shields.io/static/v1?label=Profile%20views&message=437,428&color=0e75b6&style=flat" alt="Wency" title=":D!" /> </p>
 
-**`Network & Security Systems | AI/ML Developer </>`**
+**`Full-Stack & UI/UX Developer </>`**
 
-Hi, I'm Vural Demir, I make network and security systems. My main focus is building secure, reliable, and scalable infrastructures that protect systems and data.
+Hi, I'm Vural Demir. I design and build secure, reliable, and scalable systems, with a strong focus on network and security engineering. My goal is to create infrastructures that protect data while enabling seamless digital experiences.
 
-Alongside security engineering, I explore AI and machine learning to design intelligent, efficient solutions—from data-driven models to automation tools. I also enjoy bot development and backend systems, where I apply both my coding skills and security mindset.
+Alongside security, I work on AI and machine learning, developing intelligent solutions—from data-driven models to automation tools. I also enjoy full-stack development and UI/UX design, combining clean code with intuitive, user-centered interfaces.
 
-Technology, for me, is not just about innovation but about creating safe and practical digital environments. Every project I take on helps me combine security, intelligence, and development into meaningful solutions.
+For me, technology is not just about innovation—it’s about building safe, efficient, and practical digital environments. Every project I take on allows me to integrate security, intelligence, and design into meaningful solutions.
 
 <!-- LANGUAGES -->
 <h3 align="left">🚀 Languages</h3>
 <p align="left">
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <!-- HTML -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
+  </a>
+  <!-- CSS -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
   </a>
   <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
@@ -25,27 +29,19 @@ Technology, for me, is not just about innovation but about creating safe and pra
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
-  <!-- Go -->
-  <a href="https://go.dev/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-  </a>
-  <!-- C -->
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <!-- Bash -->
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
-  </a>
-  <!-- PowerShell -->
-  <a href="https://learn.microsoft.com/powershell/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" alt="powershell" width="40" height="40"/>
+  <!-- Python -->
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
 </p>
 
 <!-- FRAMEWORKS / LIBRARIES -->
 <h3 align="left">⚡ Frameworks / Libraries</h3>
 <p align="left">
+  <!-- React -->
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  </a>
   <!-- Node.js -->
   <a href="https://nodejs.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
@@ -54,33 +50,13 @@ Technology, for me, is not just about innovation but about creating safe and pra
   <a href="https://expressjs.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40"/>
   </a>
-  <!-- Discord.js -->
-  <a href="https://discord.js.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" alt="discordjs" width="40" height="40"/>
+  <!-- Figma -->
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
   </a>
-  <!-- TensorFlow -->
-  <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-  <!-- PyTorch -->
-  <a href="https://pytorch.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
-  </a>
-  <!-- OpenCV -->
-  <a href="https://opencv.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/>
-  </a>
-  <!-- Ansible -->
-  <a href="https://www.ansible.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40"/>
-  </a>
-  <!-- Docker -->
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <!-- Kubernetes -->
-  <a href="https://kubernetes.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
+  <!-- Adobe XD -->
+  <a href="https://www.adobe.com/products/xd.html" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-original.svg" alt="adobexd" width="40" height="40"/>
   </a>
 </p>
 
@@ -95,20 +71,15 @@ Technology, for me, is not just about innovation but about creating safe and pra
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
   </a>
-  <!-- Redis -->
-  <a href="https://redis.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   </a>
-  <!-- Elasticsearch -->
-  <a href="https://www.elastic.co/elasticsearch/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" alt="elasticsearch" width="40" height="40"/>
-  </a>
-  <!-- Grafana -->
-  <a href="https://grafana.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40"/>
+  <!-- Docker -->
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
   </a>
 </p>
-
 
   <!-- DILLER -->
 
