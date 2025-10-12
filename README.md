@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Hi%2C%20I'm%20Wêncy!-blue?style=for-the-badge&logo=github" alt="Hi, I'm Wêncy"/>
+  <img src="https://img.shields.io/badge/Hi%2C%20I'm%20Wêncy Strâyne!-blue?style=for-the-badge&logo=github" alt="Hi, I'm Wêncy"/>
 </p>
 
 <p align="left"> <img src="https://img.shields.io/static/v1?label=Profile%20views&message=437,428&color=0e75b6&style=flat" alt="Vural Demir" title=":D!" /> </p>
