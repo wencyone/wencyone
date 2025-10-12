@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=0e75b6&center=true&vCenter=true&lines=Hi+there!+I'm+Wêncy.;Full-Stack+Developer.;UI/UX+Designer.;AI+%26+ML+Enthusiast." alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/Hi%2C%20I'm%20Wêncy!-blue?style=for-the-badge&logo=github" alt="Hi, I'm Wêncy"/>
 </p>
 
 <p align="left"> <img src="https://img.shields.io/static/v1?label=Profile%20views&message=437,428&color=0e75b6&style=flat" alt="Wency" title=":D!" /> </p>
