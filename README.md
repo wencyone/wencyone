@@ -100,7 +100,7 @@ I am particularly driven by the challenge of transforming complex ideas into cle
 
 </p>
 <p align="center">
-  <i>⚡ Wency r</i>
+  <i>⚡ Wency </i>
 </p>
 
 
