@@ -6,11 +6,15 @@
 
 **`Full-Stack & UI/UX Developer </>`**
 
-Hi, I'm Vural Demir. I design and build secure, reliable, and scalable systems, with a strong focus on network and security engineering. My goal is to create infrastructures that protect data while enabling seamless digital experiences.
+Hi, I'm Vural Demir — a Full-Stack Developer focused on building secure, scalable, and modern digital systems.
 
-Alongside security, I work on AI and machine learning, developing intelligent solutions—from data-driven models to automation tools. I also enjoy full-stack development and UI/UX design, combining clean code with intuitive, user-centered interfaces.
+I work across full-stack development, AI/automation, and UI/UX design, combining clean architecture with intuitive user experiences. My primary stack includes React, TypeScript, Node.js, Python, MongoDB, and Docker.
 
-For me, technology is not just about innovation—it’s about building safe, efficient, and practical digital environments. Every project I take on allows me to integrate security, intelligence, and design into meaningful solutions.
+I have a strong interest in network and security engineering, designing infrastructures that prioritize reliability, data protection, and performance.
+
+Alongside development, I build AI-powered solutions, automation tools, and intelligent workflows that improve efficiency and create practical real-world impact.
+
+For me, technology is not only about innovation — it's about creating secure, efficient, and meaningful digital experiences.
 
 <!-- LANGUAGES -->
 <h3 align="left">🚀 Languages</h3>
