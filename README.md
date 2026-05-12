@@ -22,83 +22,83 @@ I am particularly driven by the challenge of transforming complex ideas into cle
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
 </p>
 
-<!-- FRAMEWORKS / LIBRARIES -->
-<h3 align="left">⚡ Frameworks / Libraries</h3>
+<!-- FRAMEWORKS & LIBRARIES -->
+<h3 align="left">⚡ Frameworks & Libraries</h3>
+
 <p align="left">
-  <!-- React -->
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  </a>
-  <!-- Node.js -->
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <!-- Express -->
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40"/>
-  </a>
-  <!-- Figma -->
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <!-- Adobe XD -->
-  <a href="https://www.adobe.com/products/xd.html" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-original.svg" alt="adobexd" width="40" height="40"/>
-  </a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="45" />
 </p>
 
-<!-- DATABASES / TOOLS -->
-<h3 align="left">💾 Databases / Tools</h3>
+<!-- DATABASES & TOOLS -->
+<h3 align="left">🛠️ Databases & Tools</h3>
+
 <p align="left">
-  <!-- PostgreSQL -->
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <!-- MongoDB -->
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  </a>
-  <!-- Docker -->
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  </a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="45" />
 </p>
 
-  <!-- DILLER -->
+<!-- ACHIEVEMENTS -->
 
 <h3 align="center">🏆 Achievements & Projects</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🛡️-Top%201%25%20Security%20Engineer-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🤖-AI%2FML%20Hackathon%20Winner-gold?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🚀-100%2B%20Projects%20Launched-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/💻-Discord%20Bot%20Developer-9cf?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🧠-AI%20Automation%20Engineer-6A5ACD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔒-Security%20Focused%20Developer-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚀-Scalable%20FullStack%20Systems-00C853?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🤖-Advanced%20Discord%20Bot%20Developer-5865F2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎨-UI%2FUX%20Interface%20Designer-FF4081?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⚡-Automation%20Workflow%20Builder-FF9800?style=for-the-badge" />
 </p>
+
+<!-- FEATURED PROJECTS -->
+
+<h3 align="center">📌 Featured Projects</h3>
 
 <p align="center">
-  <!-- Ağ & Güvenlik Projesi -->
-  <a href="https://example.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Security Project" width="200" />
-  </a>
-  <!-- AI/ML Projesi -->
-  <a href="https://example.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="AI/ML Project" width="200" />
-  </a>
-  <!-- Discord Bot / Backend -->
-  <a href="https://example.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Discord Bot Project" width="200" />
-  </a>
-</p>
 
+  <!-- Security / Infrastructure -->
+  <a href="https://example.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linux,docker,bash" height="70" />
+  </a>
+
+  <!-- AI / Automation -->
+  <a href="https://example.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" height="70" />
+  </a>
+
+  <!-- Full-Stack / Discord -->
+  <a href="https://example.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs,react,mongodb" height="70" />
+  </a>
+
+  <!-- UI / UX -->
+  <a href="https://example.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=figma,tailwind,ts" height="70" />
+  </a>
+
+</p>
 <p align="center">
   <i>⚡ Wency r</i>
 </p>
