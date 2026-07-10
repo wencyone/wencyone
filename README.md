@@ -2,8 +2,8 @@
   <img src="https://img.shields.io/badge/Hi%2C%20I'm%20Vural Demir!-blue?style=for-the-badge&logo=github" alt="Hi, I'm Vural Demir"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vuraldeveloper&label=Profile%20Views&color=2563eb&style=for-the-badge" alt="Profile Views" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=vuraldeveloper&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 **`Computer Programming Student • Software Developer </>`**
