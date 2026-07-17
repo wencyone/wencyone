@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Hi%2C%20I'm%20Vural Demir!-blue?style=for-the-badge&logo=github" alt="Hi, I'm Vural "Wency" Demir"/>
+  <img src="https://img.shields.io/badge/Hi%2C%20I'm%20Vural Demir!-blue?style=for-the-badge&logo=github" alt="Hi, I'm Vural Wency Demir"/>
 </p>
 
 <p align="left">
